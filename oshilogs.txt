@@ -12,304 +12,57 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Nicta =====
-[1]Nicta       |08:36:17 | 11-10-2026| login OK @znicta | score=920 rank=6384
-[1]Nicta       |08:36:17 | 11-10-2026| serverTime=2026-10-11T08:36:17.000Z local=2026-10-11T08:36:17.848Z
+[1]Nicta       |11:48:50 | 12-10-2026| login OK @znicta | score=990 rank=6190
+[1]Nicta       |11:48:50 | 12-10-2026| serverTime=2026-10-12T11:48:50.000Z local=2026-10-12T11:48:50.609Z
 --> [1]Nicta menjalankan: Claim Daily
-[1]Nicta       |08:36:18 | 11-10-2026| daily: sudah klaim (already=true) score=920
---> [1]Nicta menjalankan: Auto All Tasks (3 pending)
-[1]Nicta       |08:36:20 | 11-10-2026| [1/3] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/znicta/status/2109201062151639704
-[1]Nicta       |08:36:20 | 11-10-2026| delay 10s...
-[1]Nicta       |08:36:33 | 11-10-2026| [2/3] 1499c73c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/znicta/status/2109200935455673314
-[1]Nicta       |08:36:33 | 11-10-2026| delay 10s...
-[1]Nicta       |08:36:45 | 11-10-2026| [3/3] e62ee4d9 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/znicta/status/2109201224182168277
-[1]Nicta       |08:36:45 | 11-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Nicta       |08:36:47 | 11-10-2026| [1/1] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/znicta/status/2109201229407806441
+[1]Nicta       |11:48:51 | 12-10-2026| daily: OK +10 poin score=1000
+--> [1]Nicta menjalankan: Auto All Tasks (9 pending)
+[1]Nicta       |11:48:53 | 12-10-2026| [1/9] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/znicta/status/2109611944877878033
+[1]Nicta       |11:48:53 | 12-10-2026| delay 10s...
+[1]Nicta       |11:49:05 | 12-10-2026| [2/9] c0692622 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/znicta/status/2109612044655033257
+[1]Nicta       |11:49:05 | 12-10-2026| delay 10s...
+[1]Nicta       |11:49:17 | 12-10-2026| [3/9] 52236caa (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/znicta/status/2109611814155449163
+[1]Nicta       |11:49:17 | 12-10-2026| delay 10s...
+[1]Nicta       |11:49:29 | 12-10-2026| [4/9] fa907706 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/znicta/status/2109611943275147012
+[1]Nicta       |11:49:29 | 12-10-2026| delay 10s...
+[1]Nicta       |11:49:40 | 12-10-2026| [5/9] f3c57454 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Nicta       |11:49:40 | 12-10-2026| delay 10s...
+[1]Nicta       |11:49:53 | 12-10-2026| [6/9] 446fd4f4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/znicta/status/2109612117565926130
+[1]Nicta       |11:49:53 | 12-10-2026| delay 10s...
+[1]Nicta       |11:50:05 | 12-10-2026| [7/9] cbf91691 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/znicta/status/2109612131091340031
+[1]Nicta       |11:50:05 | 12-10-2026| delay 10s...
+[1]Nicta       |11:50:17 | 12-10-2026| [8/9] 7411ef73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/znicta/status/2109612097061319820
+[1]Nicta       |11:50:17 | 12-10-2026| delay 10s...
+[1]Nicta       |11:50:29 | 12-10-2026| [9/9] 65e97767 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Nicta       |11:50:29 | 12-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Nicta       |11:50:31 | 12-10-2026| [1/1] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/znicta/status/2109612184342509037
 --> [1]Nicta menjalankan: Watch Anime
-[1]Nicta       |08:36:48 | 11-10-2026| watch: 2 video belum completed: oshi-first-journey,ep5
-[1]Nicta       |08:36:48 | 11-10-2026| watch [1/2] farming oshi-first-journey...
-[1]Nicta       |08:36:52 | 11-10-2026| watch oshi-first-journey: 0% (0.00/87.00s)
-[1]Nicta       |08:37:01 | 11-10-2026| watch oshi-first-journey: 6% (6.08/87.00s)
-[1]Nicta       |08:37:07 | 11-10-2026| watch oshi-first-journey: 14% (13.05/87.00s)
-[1]Nicta       |08:37:15 | 11-10-2026| watch oshi-first-journey: 21% (18.65/87.00s)
-[1]Nicta       |08:37:22 | 11-10-2026| watch oshi-first-journey: 28% (25.03/87.00s)
-[1]Nicta       |08:37:28 | 11-10-2026| watch oshi-first-journey: 35% (30.78/87.00s)
-[1]Nicta       |08:37:37 | 11-10-2026| watch oshi-first-journey: 42% (36.86/87.00s)
-[1]Nicta       |08:37:44 | 11-10-2026| watch oshi-first-journey: 49% (43.44/87.00s)
-[1]Nicta       |08:37:52 | 11-10-2026| watch oshi-first-journey: 56% (49.36/87.00s)
-[1]Nicta       |08:38:00 | 11-10-2026| watch oshi-first-journey: 64% (56.45/87.00s)
-[1]Nicta       |08:38:06 | 11-10-2026| watch oshi-first-journey: 71% (62.61/87.00s)
-[1]Nicta       |08:38:12 | 11-10-2026| watch oshi-first-journey: 78% (68.16/87.00s)
-[1]Nicta       |08:38:18 | 11-10-2026| watch oshi-first-journey: 84% (73.72/87.00s)
-[1]Nicta       |08:38:24 | 11-10-2026| watch oshi-first-journey: 91% (79.27/87.00s)
-[1]Nicta       |08:38:24 | 11-10-2026| watch oshi-first-journey: COMPLETED (79.27/87.00s)
-[1]Nicta       |08:38:29 | 11-10-2026| watch [2/2] farming ep5...
-[1]Nicta       |08:38:30 | 11-10-2026| watch ep5: mulai dari 0 (record 30.5s diabaikan)
-[1]Nicta       |08:38:31 | 11-10-2026| watch ep5: 7% (30.52/396.00s)
-[1]Nicta       |08:38:42 | 11-10-2026| watch ep5: 7% (30.52/396.00s)
-[1]Nicta       |08:38:48 | 11-10-2026| watch ep5: 7% (30.52/396.00s)
-[1]Nicta       |08:38:56 | 11-10-2026| watch ep5: 7% (30.52/396.00s)
-[1]Nicta       |08:39:03 | 11-10-2026| watch ep5: 7% (30.52/396.00s)
-[1]Nicta       |08:39:11 | 11-10-2026| watch ep5: 8% (33.70/396.00s)
-[1]Nicta       |08:39:20 | 11-10-2026| watch ep5: 10% (40.94/396.00s)
-[1]Nicta       |08:39:27 | 11-10-2026| watch ep5: 12% (48.78/396.00s)
-[1]Nicta       |08:39:34 | 11-10-2026| watch ep5: 13% (55.24/396.00s)
-[1]Nicta       |08:39:42 | 11-10-2026| watch ep5: 15% (61.40/396.00s)
-[1]Nicta       |08:39:50 | 11-10-2026| watch ep5: 17% (68.65/396.00s)
-[1]Nicta       |08:39:59 | 11-10-2026| watch ep5: 19% (76.06/396.00s)
-[1]Nicta       |08:40:06 | 11-10-2026| watch ep5: 20% (83.05/396.00s)
-[1]Nicta       |08:40:18 | 11-10-2026| watch ep5: 22% (89.34/396.00s)
-[1]Nicta       |08:40:24 | 11-10-2026| watch ep5: 24% (97.51/396.00s)
-[1]Nicta       |08:40:31 | 11-10-2026| watch ep5: 26% (103.09/396.00s)
-[1]Nicta       |08:40:38 | 11-10-2026| watch ep5: 27% (109.43/396.00s)
-[1]Nicta       |08:40:45 | 11-10-2026| watch ep5: 29% (115.66/396.00s)
-[1]Nicta       |08:40:53 | 11-10-2026| watch ep5: 30% (121.85/396.00s)
-[1]Nicta       |08:40:59 | 11-10-2026| watch ep5: 32% (128.02/396.00s)
-[1]Nicta       |08:41:06 | 11-10-2026| watch ep5: 33% (133.58/396.00s)
-[1]Nicta       |08:41:14 | 11-10-2026| watch ep5: 35% (139.59/396.00s)
-[1]Nicta       |08:41:23 | 11-10-2026| watch ep5: 37% (146.77/396.00s)
-[1]Nicta       |08:41:34 | 11-10-2026| watch ep5: 39% (154.44/396.00s)
-[1]Nicta       |08:41:41 | 11-10-2026| watch ep5: 40% (161.67/396.00s)
-[1]Nicta       |08:41:49 | 11-10-2026| watch ep5: 42% (168.40/396.00s)
-[1]Nicta       |08:41:55 | 11-10-2026| watch ep5: 44% (174.59/396.00s)
-[1]Nicta       |08:42:02 | 11-10-2026| watch ep5: 45% (180.17/396.00s)
-[1]Nicta       |08:42:08 | 11-10-2026| watch ep5: 47% (186.71/396.00s)
-[1]Nicta       |08:42:15 | 11-10-2026| watch ep5: 48% (192.30/396.00s)
-[1]Nicta       |08:42:23 | 11-10-2026| watch ep5: 50% (198.31/396.00s)
-[1]Nicta       |08:42:34 | 11-10-2026| watch ep5: 51% (205.09/396.00s)
-[1]Nicta       |08:42:41 | 11-10-2026| watch ep5: 54% (213.89/396.00s)
-[1]Nicta       |08:42:47 | 11-10-2026| watch ep5: 55% (220.08/396.00s)
-[1]Nicta       |08:42:55 | 11-10-2026| watch ep5: 57% (226.07/396.00s)
-[1]Nicta       |08:43:02 | 11-10-2026| watch ep5: 58% (232.80/396.00s)
-[1]Nicta       |08:43:09 | 11-10-2026| watch ep5: 60% (239.04/396.00s)
-[1]Nicta       |08:43:16 | 11-10-2026| watch ep5: 61% (245.28/396.00s)
-[1]Nicta       |08:43:23 | 11-10-2026| watch ep5: 63% (252.20/396.00s)
-[1]Nicta       |08:43:31 | 11-10-2026| watch ep5: 65% (258.56/396.00s)
-[1]Nicta       |08:43:38 | 11-10-2026| watch ep5: 67% (265.45/396.00s)
-[1]Nicta       |08:43:46 | 11-10-2026| watch ep5: 68% (271.58/396.00s)
-[1]Nicta       |08:43:55 | 11-10-2026| watch ep5: 70% (279.20/396.00s)
-[1]Nicta       |08:44:02 | 11-10-2026| watch ep5: 72% (286.84/396.00s)
-[1]Nicta       |08:44:11 | 11-10-2026| watch ep5: 74% (293.48/396.00s)
-[1]Nicta       |08:44:23 | 11-10-2026| watch ep5: 76% (301.49/396.00s)
-[1]Nicta       |08:44:31 | 11-10-2026| watch ep5: 76% (301.49/396.00s)
-[1]Nicta       |08:44:38 | 11-10-2026| watch ep5: 77% (308.20/396.00s)
-[1]Nicta       |08:44:45 | 11-10-2026| watch ep5: 79% (314.87/396.00s)
-[1]Nicta       |08:44:52 | 11-10-2026| watch ep5: 81% (321.12/396.00s)
-[1]Nicta       |08:44:58 | 11-10-2026| watch ep5: 82% (327.18/396.00s)
-[1]Nicta       |08:45:06 | 11-10-2026| watch ep5: 84% (332.76/396.00s)
-[1]Nicta       |08:45:13 | 11-10-2026| watch ep5: 85% (339.70/396.00s)
-[1]Nicta       |08:45:20 | 11-10-2026| watch ep5: 87% (345.96/396.00s)
-[1]Nicta       |08:45:29 | 11-10-2026| watch ep5: 89% (352.93/396.00s)
-[1]Nicta       |08:45:36 | 11-10-2026| watch ep5: 91% (360.53/396.00s)
-[1]Nicta       |08:45:36 | 11-10-2026| watch ep5: COMPLETED (360.53/396.00s)
+[1]Nicta       |11:50:32 | 12-10-2026| watch: semua video sudah completed
 --> [1]Nicta menjalankan: Read Article
-[1]Nicta       |08:45:37 | 11-10-2026| news: 24/24 artikel selesai dibaca
-[1]Nicta       |08:45:37 | 11-10-2026| mint eligibility: {"userId":"1874634707763421184","youtube":{"url":"https://www.youtube.com/@znicta","status":"submitted","revision":"cdccf3c2-2521-47b0-98f0-834e9b1f3cdb","submittedAt":1791680074,"reviewedAt":17916890
-[1]Nicta       |08:45:37 | 11-10-2026| news: semua artikel sudah dibaca
+[1]Nicta       |11:50:33 | 12-10-2026| news: 24/24 artikel selesai dibaca
+[1]Nicta       |11:50:33 | 12-10-2026| mint eligibility: {"userId":"1874634707763421184","youtube":{"url":"https://www.youtube.com/@znicta","status":"submitted","revision":"cdccf3c2-2521-47b0-98f0-834e9b1f3cdb","submittedAt":1791680074,"reviewedAt":17916890
+[1]Nicta       |11:50:33 | 12-10-2026| news: semua artikel sudah dibaca
 --> [1]Nicta menjalankan: Quiz Anime
-[1]Nicta       |08:45:39 | 11-10-2026| quiz ep1: sudah dijawab
-[1]Nicta       |08:45:39 | 11-10-2026| quiz ep2: sudah dijawab
-[1]Nicta       |08:45:39 | 11-10-2026| quiz ep3: sudah dijawab
-[1]Nicta       |08:45:39 | 11-10-2026| quiz ep4: sudah dijawab
-[1]Nicta       |08:45:42 | 11-10-2026| quiz ep5: BENAR (0) +10 poin
-[1]Nicta       |08:45:45 | 11-10-2026| quiz ep6: sudah dijawab
+[1]Nicta       |11:50:34 | 12-10-2026| quiz ep1: sudah dijawab
+[1]Nicta       |11:50:34 | 12-10-2026| quiz ep2: sudah dijawab
+[1]Nicta       |11:50:34 | 12-10-2026| quiz ep3: sudah dijawab
+[1]Nicta       |11:50:34 | 12-10-2026| quiz ep4: sudah dijawab
+[1]Nicta       |11:50:34 | 12-10-2026| quiz ep5: sudah dijawab
+[1]Nicta       |11:50:34 | 12-10-2026| quiz ep6: sudah dijawab
 --> [1]Nicta menjalankan: Music Missions (realtime, bisa lama!)
-[1]Nicta       |08:45:58 | 11-10-2026| music memutar "キャンバス" (125s)...
-[1]Nicta       |08:46:09 | 11-10-2026| music "キャンバス": 7% (9.0009/125s)
-[1]Nicta       |08:46:23 | 11-10-2026| music "キャンバス": 15% (18.9594/125s)
-[1]Nicta       |08:46:34 | 11-10-2026| music "キャンバス": 25% (31.540499999999998/125s)
-[1]Nicta       |08:46:47 | 11-10-2026| music "キャンバス": 33% (41.9895/125s)
-[1]Nicta       |08:46:59 | 11-10-2026| music "キャンバス": 42% (53.1819/125s)
-[1]Nicta       |08:47:12 | 11-10-2026| music "キャンバス": 51% (64.0926/125s)
-[1]Nicta       |08:47:24 | 11-10-2026| music "キャンバス": 61% (76.3326/125s)
-[1]Nicta       |08:47:36 | 11-10-2026| music "キャンバス": 69% (86.472/125s)
-[1]Nicta       |08:47:49 | 11-10-2026| music "キャンバス": 77% (97.3638/125s)
-[1]Nicta       |08:48:04 | 11-10-2026| music "キャンバス": 87% (108.9009/125s)
-[1]Nicta       |08:48:04 | 11-10-2026| music "キャンバス": selesai 108.9009s
-[1]Nicta       |08:48:07 | 11-10-2026| music memutar "ゆっくり帰ろう" (153s)...
-[1]Nicta       |08:48:21 | 11-10-2026| music "ゆっくり帰ろう": 5% (9.0054/153s)
-[1]Nicta       |08:48:33 | 11-10-2026| music "ゆっくり帰ろう": 14% (21.717/153s)
-[1]Nicta       |08:48:44 | 11-10-2026| music "ゆっくり帰ろう": 20% (32.0922/153s)
-[1]Nicta       |08:48:55 | 11-10-2026| music "ゆっくり帰ろう": 27% (42.461999999999996/153s)
-[1]Nicta       |08:49:07 | 11-10-2026| music "ゆっくり帰ろう": 34% (52.427699999999994/153s)
-[1]Nicta       |08:49:18 | 11-10-2026| music "ゆっくり帰ろう": 41% (62.7534/153s)
-[1]Nicta       |08:49:29 | 11-10-2026| music "ゆっくり帰ろう": 47% (72.7875/153s)
-[1]Nicta       |08:49:40 | 11-10-2026| music "ゆっくり帰ろう": 54% (82.7415/153s)
-[1]Nicta       |08:49:52 | 11-10-2026| music "ゆっくり帰ろう": 60% (92.80170000000001/153s)
-[1]Nicta       |08:50:04 | 11-10-2026| music "ゆっくり帰ろう": 67% (103.14720000000001/153s)
-[1]Nicta       |08:50:16 | 11-10-2026| music "ゆっくり帰ろう": 74% (114.4377/153s)
-[1]Nicta       |08:50:27 | 11-10-2026| music "ゆっくり帰ろう": 81% (125.10090000000001/153s)
-[1]Nicta       |08:50:28 | 11-10-2026| music "ゆっくり帰ろう": selesai 125.10090000000001s
-[1]Nicta       |08:50:30 | 11-10-2026| music memutar "うたかた" (185s)...
-[1]Nicta       |08:50:41 | 11-10-2026| music "うたかた": 4% (9.0054/185s)
-[1]Nicta       |08:50:53 | 11-10-2026| music "うたかた": 10% (19.5354/185s)
-[1]Nicta       |08:51:04 | 11-10-2026| music "うたかた": 15% (29.4561/185s)
-[1]Nicta       |08:51:15 | 11-10-2026| music "うたかた": 21% (39.717/185s)
-[1]Nicta       |08:51:26 | 11-10-2026| music "うたかた": 26% (49.8807/185s)
-[1]Nicta       |08:51:37 | 11-10-2026| music "うたかた": 32% (59.7483/185s)
-[1]Nicta       |08:51:48 | 11-10-2026| music "うたかた": 37% (69.615/185s)
-[1]Nicta       |08:52:01 | 11-10-2026| music "うたかた": 43% (79.60589999999999/185s)
-[1]Nicta       |08:52:13 | 11-10-2026| music "うたかた": 49% (91.49669999999999/185s)
-[1]Nicta       |08:52:26 | 11-10-2026| music "うたかた": 55% (102.13829999999999/185s)
-[1]Nicta       |08:52:38 | 11-10-2026| music "うたかた": 61% (113.6646/185s)
-[1]Nicta       |08:52:50 | 11-10-2026| music "うたかた": 67% (124.19909999999999/185s)
-[1]Nicta       |08:53:02 | 11-10-2026| music "うたかた": 72% (134.9415/185s)
-[1]Nicta       |08:53:13 | 11-10-2026| music "うたかた": 78% (145.62/185s)
-[1]Nicta       |08:53:24 | 11-10-2026| music "うたかた": 84% (156.0042/185s)
-[1]Nicta       |08:53:25 | 11-10-2026| music "うたかた": selesai 156.0042s
-[1]Nicta       |08:53:28 | 11-10-2026| music memutar "ぬくもり" (188s)...
-[1]Nicta       |08:53:40 | 11-10-2026| music "ぬくもり": 4% (9.0054/188s)
-[1]Nicta       |08:53:51 | 11-10-2026| music "ぬくもり": 10% (19.883699999999997/188s)
-[1]Nicta       |08:54:03 | 11-10-2026| music "ぬくもり": 15% (29.850299999999997/188s)
-[1]Nicta       |08:54:15 | 11-10-2026| music "ぬくもり": 21% (40.2741/188s)
-[1]Nicta       |08:54:27 | 11-10-2026| music "ぬくもり": 26% (50.7483/188s)
-[1]Nicta       |08:54:38 | 11-10-2026| music "ぬくもり": 32% (61.8381/188s)
-[1]Nicta       |08:54:53 | 11-10-2026| music "ぬくもり": 38% (71.7372/188s)
-[1]Nicta       |08:55:05 | 11-10-2026| music "ぬくもり": 45% (85.6521/188s)
-[1]Nicta       |08:55:17 | 11-10-2026| music "ぬくもり": 51% (95.91300000000001/188s)
-[1]Nicta       |08:55:29 | 11-10-2026| music "ぬくもり": 56% (106.57260000000001/188s)
-[1]Nicta       |08:55:45 | 11-10-2026| music "ぬくもり": 62% (118.14210000000001/188s)
-[1]Nicta       |08:55:57 | 11-10-2026| music "ぬくもり": 70% (132.13170000000002/188s)
-[1]Nicta       |08:56:08 | 11-10-2026| music "ぬくもり": 75% (142.59330000000003/188s)
-[1]Nicta       |08:56:20 | 11-10-2026| music "ぬくもり": 81% (153.20070000000004/188s)
-[1]Nicta       |08:56:21 | 11-10-2026| music "ぬくもり": selesai 153.20070000000004s
-[1]Nicta       |08:56:24 | 11-10-2026| music memutar "桃色の頃" (213s)...
-[1]Nicta       |08:56:35 | 11-10-2026| music "桃色の頃": 4% (9.0054/213s)
-[1]Nicta       |08:56:47 | 11-10-2026| music "桃色の頃": 8% (19.1331/213s)
-[1]Nicta       |08:56:59 | 11-10-2026| music "桃色の頃": 13% (29.3733/213s)
-[1]Nicta       |08:57:11 | 11-10-2026| music "桃色の頃": 18% (40.2849/213s)
-[1]Nicta       |08:57:23 | 11-10-2026| music "桃色の頃": 24% (51.4287/213s)
-[1]Nicta       |08:57:37 | 11-10-2026| music "桃色の頃": 29% (61.8201/213s)
-[1]Nicta       |08:57:50 | 11-10-2026| music "桃色の頃": 35% (74.7819/213s)
-[1]Nicta       |08:58:02 | 11-10-2026| music "桃色の頃": 40% (86.04629999999999/213s)
-[1]Nicta       |08:58:17 | 11-10-2026| music "桃色の頃": 45% (96.76169999999999/213s)
-[1]Nicta       |08:58:30 | 11-10-2026| music "桃色の頃": 51% (110.15189999999998/213s)
-[1]Nicta       |08:58:41 | 11-10-2026| music "桃色の頃": 57% (121.99319999999999/213s)
-[1]Nicta       |08:58:52 | 11-10-2026| music "桃色の頃": 61% (131.88959999999997/213s)
-[1]Nicta       |08:59:03 | 11-10-2026| music "桃色の頃": 66% (141.76169999999996/213s)
-[1]Nicta       |08:59:14 | 11-10-2026| music "桃色の頃": 71% (151.64279999999997/213s)
-[1]Nicta       |08:59:25 | 11-10-2026| music "桃色の頃": 75% (161.57609999999997/213s)
-[1]Nicta       |08:59:37 | 11-10-2026| music "桃色の頃": 80% (171.45629999999997/213s)
-[1]Nicta       |08:59:37 | 11-10-2026| music "桃色の頃": selesai 171.45629999999997s
-[1]Nicta       |08:59:40 | 11-10-2026| music memutar "記憶の名前" (224s)...
-[1]Nicta       |08:59:51 | 11-10-2026| music "記憶の名前": 4% (9.0036/224s)
-[1]Nicta       |09:00:04 | 11-10-2026| music "記憶の名前": 8% (19.218600000000002/224s)
-[1]Nicta       |09:00:15 | 11-10-2026| music "記憶の名前": 13% (30.6918/224s)
-[1]Nicta       |09:00:27 | 11-10-2026| music "記憶の名前": 18% (41.274/224s)
-[1]Nicta       |09:00:38 | 11-10-2026| music "記憶の名前": 23% (52.1676/224s)
-[1]Nicta       |09:00:53 | 11-10-2026| music "記憶の名前": 27% (62.088300000000004/224s)
-[1]Nicta       |09:01:05 | 11-10-2026| music "記憶の名前": 33% (75.57300000000001/224s)
-[1]Nicta       |09:01:17 | 11-10-2026| music "記憶の名前": 38% (86.15610000000001/224s)
-[1]Nicta       |09:01:30 | 11-10-2026| music "記憶の名前": 43% (96.5232/224s)
-[1]Nicta       |09:01:41 | 11-10-2026| music "記憶の名前": 48% (108.0774/224s)
-[1]Nicta       |09:01:52 | 11-10-2026| music "記憶の名前": 52% (118.1691/224s)
-[1]Nicta       |09:02:03 | 11-10-2026| music "記憶の名前": 57% (128.0988/224s)
-[1]Nicta       |09:02:14 | 11-10-2026| music "記憶の名前": 61% (138.39120000000003/224s)
-[1]Nicta       |09:02:27 | 11-10-2026| music "記憶の名前": 66% (148.48560000000003/224s)
-[1]Nicta       |09:02:38 | 11-10-2026| music "記憶の名前": 71% (159.43320000000003/224s)
-[1]Nicta       |09:02:51 | 11-10-2026| music "記憶の名前": 75% (169.85070000000002/224s)
-[1]Nicta       |09:03:04 | 11-10-2026| music "記憶の名前": 81% (181.68120000000002/224s)
-[1]Nicta       |09:03:06 | 11-10-2026| music "記憶の名前": selesai 181.68120000000002s
-[1]Nicta       |09:03:12 | 11-10-2026| music memutar "Smart Pocket" (232s)...
-[1]Nicta       |09:03:24 | 11-10-2026| music "Smart Pocket": 3% (9.0054/232s)
-[1]Nicta       |09:03:38 | 11-10-2026| music "Smart Pocket": 8% (19.223100000000002/232s)
-[1]Nicta       |09:03:49 | 11-10-2026| music "Smart Pocket": 13% (31.920300000000005/232s)
-[1]Nicta       |09:04:02 | 11-10-2026| music "Smart Pocket": 18% (41.8293/232s)
-[1]Nicta       |09:04:13 | 11-10-2026| music "Smart Pocket": 23% (53.849700000000006/232s)
-[1]Nicta       |09:04:24 | 11-10-2026| music "Smart Pocket": 27% (63.74700000000001/232s)
-[1]Nicta       |09:04:36 | 11-10-2026| music "Smart Pocket": 31% (73.60830000000001/232s)
-[1]Nicta       |09:04:48 | 11-10-2026| music "Smart Pocket": 36% (84.70530000000001/232s)
-[1]Nicta       |09:05:00 | 11-10-2026| music "Smart Pocket": 41% (95.38740000000001/232s)
-[1]Nicta       |09:05:14 | 11-10-2026| music "Smart Pocket": 45% (106.05330000000001/232s)
-[1]Nicta       |09:05:28 | 11-10-2026| music "Smart Pocket": 51% (118.62360000000001/232s)
-[1]Nicta       |09:05:42 | 11-10-2026| music "Smart Pocket": 56% (131.51700000000002/232s)
-[1]Nicta       |09:05:59 | 11-10-2026| music "Smart Pocket": 62% (143.87040000000002/232s)
-[1]Nicta       |09:06:12 | 11-10-2026| music "Smart Pocket": 68% (158.73930000000001/232s)
-[1]Nicta       |09:06:24 | 11-10-2026| music "Smart Pocket": 73% (170.92890000000003/232s)
-[1]Nicta       |09:06:37 | 11-10-2026| music "Smart Pocket": 78% (181.19880000000003/232s)
-[1]Nicta       |09:06:49 | 11-10-2026| music "Smart Pocket": 83% (193.67640000000003/232s)
-[1]Nicta       |09:06:49 | 11-10-2026| music "Smart Pocket": selesai 193.67640000000003s
-[1]Nicta       |09:06:51 | 11-10-2026| music memutar "神様みたいに" (254s)...
-[1]Nicta       |09:07:02 | 11-10-2026| music "神様みたいに": 3% (9.0063/254s)
-[1]Nicta       |09:07:17 | 11-10-2026| music "神様みたいに": 7% (18.884700000000002/254s)
-[1]Nicta       |09:07:29 | 11-10-2026| music "神様みたいに": 12% (31.989600000000003/254s)
-[1]Nicta       |09:07:40 | 11-10-2026| music "神様みたいに": 16% (42.6978/254s)
-[1]Nicta       |09:07:51 | 11-10-2026| music "神様みたいに": 20% (52.8012/254s)
-[1]Nicta       |09:08:03 | 11-10-2026| music "神様みたいに": 24% (63.0171/254s)
-[1]Nicta       |09:08:14 | 11-10-2026| music "神様みたいに": 28% (73.48140000000001/254s)
-[1]Nicta       |09:08:26 | 11-10-2026| music "神様みたいに": 32% (83.75670000000001/254s)
-[1]Nicta       |09:08:37 | 11-10-2026| music "神様みたいに": 37% (94.11840000000001/254s)
-[1]Nicta       |09:08:48 | 11-10-2026| music "神様みたいに": 41% (104.57010000000001/254s)
-[1]Nicta       |09:09:00 | 11-10-2026| music "神様みたいに": 45% (114.4008/254s)
-[1]Nicta       |09:09:11 | 11-10-2026| music "神様みたいに": 49% (124.5771/254s)
-[1]Nicta       |09:09:23 | 11-10-2026| music "神様みたいに": 53% (134.9361/254s)
-[1]Nicta       |09:09:34 | 11-10-2026| music "神様みたいに": 57% (145.32840000000002/254s)
-[1]Nicta       |09:09:46 | 11-10-2026| music "神様みたいに": 61% (155.7504/254s)
-[1]Nicta       |09:09:58 | 11-10-2026| music "神様みたいに": 65% (166.32180000000002/254s)
-[1]Nicta       |09:10:09 | 11-10-2026| music "神様みたいに": 69% (176.99040000000002/254s)
-[1]Nicta       |09:10:21 | 11-10-2026| music "神様みたいに": 73% (186.96510000000004/254s)
-[1]Nicta       |09:10:32 | 11-10-2026| music "神様みたいに": 77% (197.81010000000003/254s)
-[1]Nicta       |09:10:43 | 11-10-2026| music "神様みたいに": 81% (207.72270000000003/254s)
-[1]Nicta       |09:10:43 | 11-10-2026| music "神様みたいに": selesai 207.72270000000003s
-[1]Nicta       |09:10:46 | 11-10-2026| music memutar "せーので、飛ぼう！" (269s)...
-[1]Nicta       |09:11:00 | 11-10-2026| music "せーので、飛ぼう！": 3% (9.0054/269s)
-[1]Nicta       |09:11:15 | 11-10-2026| music "せーので、飛ぼう！": 7% (21.0375/269s)
-[1]Nicta       |09:11:26 | 11-10-2026| music "せーので、飛ぼう！": 12% (34.7436/269s)
-[1]Nicta       |09:11:37 | 11-10-2026| music "せーので、飛ぼう！": 16% (45.0279/269s)
-[1]Nicta       |09:11:49 | 11-10-2026| music "せーので、飛ぼう！": 20% (54.9117/269s)
-[1]Nicta       |09:12:00 | 11-10-2026| music "せーので、飛ぼう！": 24% (65.691/269s)
-[1]Nicta       |09:12:12 | 11-10-2026| music "せーので、飛ぼう！": 28% (75.82770000000001/269s)
-[1]Nicta       |09:12:23 | 11-10-2026| music "せーので、飛ぼう！": 32% (86.2947/269s)
-[1]Nicta       |09:12:34 | 11-10-2026| music "せーので、飛ぼう！": 35% (96.1452/269s)
-[1]Nicta       |09:12:45 | 11-10-2026| music "せーので、飛ぼう！": 39% (106.0605/269s)
-[1]Nicta       |09:12:58 | 11-10-2026| music "せーので、飛ぼう！": 43% (116.0892/269s)
-[1]Nicta       |09:13:09 | 11-10-2026| music "せーので、飛ぼう！": 47% (127.5309/269s)
-[1]Nicta       |09:13:20 | 11-10-2026| music "せーので、飛ぼう！": 51% (137.3958/269s)
-[1]Nicta       |09:13:32 | 11-10-2026| music "せーので、飛ぼう！": 54% (147.411/269s)
-[1]Nicta       |09:13:44 | 11-10-2026| music "せーので、飛ぼう！": 58% (157.9392/269s)
-[1]Nicta       |09:13:56 | 11-10-2026| music "せーので、飛ぼう！": 62% (169.0281/269s)
-[1]Nicta       |09:14:07 | 11-10-2026| music "せーので、飛ぼう！": 66% (179.8884/269s)
-[1]Nicta       |09:14:18 | 11-10-2026| music "せーので、飛ぼう！": 70% (189.76049999999998/269s)
-[1]Nicta       |09:14:30 | 11-10-2026| music "せーので、飛ぼう！": 74% (199.6443/269s)
-[1]Nicta       |09:14:41 | 11-10-2026| music "せーので、飛ぼう！": 78% (210.7422/269s)
-[1]Nicta       |09:14:53 | 11-10-2026| music "せーので、飛ぼう！": 82% (220.5819/269s)
-[1]Nicta       |09:14:53 | 11-10-2026| music "せーので、飛ぼう！": selesai 220.5819s
-[1]Nicta       |09:14:56 | 11-10-2026| music memutar "ON CHAIN NEXUS" (276s)...
-[1]Nicta       |09:15:07 | 11-10-2026| music "ON CHAIN NEXUS": 3% (9.001800000000001/276s)
-[1]Nicta       |09:15:20 | 11-10-2026| music "ON CHAIN NEXUS": 6% (18.8775/276s)
-[1]Nicta       |09:15:33 | 11-10-2026| music "ON CHAIN NEXUS": 11% (31.020300000000002/276s)
-[1]Nicta       |09:15:44 | 11-10-2026| music "ON CHAIN NEXUS": 15% (42.1542/276s)
-[1]Nicta       |09:15:56 | 11-10-2026| music "ON CHAIN NEXUS": 18% (52.355700000000006/276s)
-[1]Nicta       |09:16:08 | 11-10-2026| music "ON CHAIN NEXUS": 22% (62.73180000000001/276s)
-[1]Nicta       |09:16:19 | 11-10-2026| music "ON CHAIN NEXUS": 26% (74.1294/276s)
-[1]Nicta       |09:16:31 | 11-10-2026| music "ON CHAIN NEXUS": 30% (84.0339/276s)
-[1]Nicta       |09:16:42 | 11-10-2026| music "ON CHAIN NEXUS": 34% (94.2876/276s)
-[1]Nicta       |09:16:54 | 11-10-2026| music "ON CHAIN NEXUS": 37% (104.6889/276s)
-[1]Nicta       |09:17:07 | 11-10-2026| music "ON CHAIN NEXUS": 41% (115.1028/276s)
-[1]Nicta       |09:17:18 | 11-10-2026| music "ON CHAIN NEXUS": 45% (126.50580000000001/276s)
-[1]Nicta       |09:17:29 | 11-10-2026| music "ON CHAIN NEXUS": 49% (136.7388/276s)
-[1]Nicta       |09:17:41 | 11-10-2026| music "ON CHAIN NEXUS": 53% (147.0546/276s)
-[1]Nicta       |09:17:53 | 11-10-2026| music "ON CHAIN NEXUS": 57% (157.8996/276s)
-[1]Nicta       |09:18:04 | 11-10-2026| music "ON CHAIN NEXUS": 60% (168.0606/276s)
-[1]Nicta       |09:18:16 | 11-10-2026| music "ON CHAIN NEXUS": 64% (178.5564/276s)
-[1]Nicta       |09:18:27 | 11-10-2026| music "ON CHAIN NEXUS": 68% (189.0873/276s)
-[1]Nicta       |09:18:39 | 11-10-2026| music "ON CHAIN NEXUS": 72% (199.0224/276s)
-[1]Nicta       |09:18:50 | 11-10-2026| music "ON CHAIN NEXUS": 75% (209.5956/276s)
-[1]Nicta       |09:19:02 | 11-10-2026| music "ON CHAIN NEXUS": 79% (219.7107/276s)
-[1]Nicta       |09:19:14 | 11-10-2026| music "ON CHAIN NEXUS": 83% (230.4918/276s)
-[1]Nicta       |09:19:15 | 11-10-2026| music "ON CHAIN NEXUS": selesai 230.4918s
-[1]Nicta       |09:19:16 | 11-10-2026| music: kedua misi sudah tercapai, stop
-[1]Nicta       |09:19:18 | 11-10-2026| mission music-listens-10: CLAIM OK +10 poin
-[1]Nicta       |09:19:22 | 11-10-2026| mission music-minutes-30: CLAIM OK +10 poin
-[1]Nicta       |09:19:26 | 11-10-2026| mission anime-completed-3: CLAIM OK +10 poin
+[1]Nicta       |11:50:36 | 12-10-2026| music: kedua misi sudah tercapai, stop
+[1]Nicta       |11:50:36 | 12-10-2026| mission music-listens-10: sudah diklaim
+[1]Nicta       |11:50:36 | 12-10-2026| mission music-minutes-30: sudah diklaim
+[1]Nicta       |11:50:36 | 12-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nicta menjalankan: Claim Missions
-[1]Nicta       |09:19:30 | 11-10-2026| mission music-listens-10: sudah diklaim
-[1]Nicta       |09:19:30 | 11-10-2026| mission music-minutes-30: sudah diklaim
-[1]Nicta       |09:19:30 | 11-10-2026| mission anime-completed-3: sudah diklaim
+[1]Nicta       |11:50:37 | 12-10-2026| mission music-listens-10: sudah diklaim
+[1]Nicta       |11:50:37 | 12-10-2026| mission music-minutes-30: sudah diklaim
+[1]Nicta       |11:50:37 | 12-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nicta menjalankan: Check Eligibility
 
 --- eligibility [1]Nicta ---
-  @znicta | score=920 rank=6384
-  tasks    [###################-] 73/76
+  @znicta | score=990 rank=6190
+  tasks    [##################--] 72/81
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -317,37 +70,17 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   watch    [####################] 18/17
   music    [####################] 11/11
   artikel  [####################] 24/24
-  mint: requirementsMet=false mintOpen=false discord=true
+  mint: requirementsMet=true mintOpen=false discord=true
 
 --> [1]Nicta menjalankan: Read Manga
-[1]Nicta       |09:19:33 | 11-10-2026| manga: 1/13 chapter belum completed
-[1]Nicta       |09:19:33 | 11-10-2026| manga [1/1] membaca ch.2 (18 hal)...
-[1]Nicta       |09:19:39 | 11-10-2026| manga ch2 (450001): page 1/18 (5%) 121s
-[1]Nicta       |09:19:43 | 11-10-2026| manga ch2 (450001): page 2/18 (11%) 125s
-[1]Nicta       |09:19:48 | 11-10-2026| manga ch2 (450001): page 3/18 (16%) 130s
-[1]Nicta       |09:19:53 | 11-10-2026| manga ch2 (450001): page 4/18 (22%) 134s
-[1]Nicta       |09:19:59 | 11-10-2026| manga ch2 (450001): page 5/18 (27%) 140s
-[1]Nicta       |09:20:05 | 11-10-2026| manga ch2 (450001): page 6/18 (33%) 146s
-[1]Nicta       |09:20:10 | 11-10-2026| manga ch2 (450001): page 7/18 (38%) 152s
-[1]Nicta       |09:20:15 | 11-10-2026| manga ch2 (450001): page 8/18 (44%) 156s
-[1]Nicta       |09:20:20 | 11-10-2026| manga ch2 (450001): page 9/18 (50%) 162s
-[1]Nicta       |09:20:26 | 11-10-2026| manga ch2 (450001): page 10/18 (55%) 167s
-[1]Nicta       |09:20:31 | 11-10-2026| manga ch2 (450001): page 11/18 (61%) 173s
-[1]Nicta       |09:20:36 | 11-10-2026| manga ch2 (450001): page 12/18 (66%) 178s
-[1]Nicta       |09:20:42 | 11-10-2026| manga ch2 (450001): page 13/18 (72%) 183s
-[1]Nicta       |09:20:48 | 11-10-2026| manga ch2 (450001): page 14/18 (77%) 189s
-[1]Nicta       |09:20:57 | 11-10-2026| manga ch2 (450001): page 15/18 (83%) 195s
-[1]Nicta       |09:21:04 | 11-10-2026| manga ch2 (450001): page 16/18 (88%) 203s
-[1]Nicta       |09:21:10 | 11-10-2026| manga ch2 (450001): page 17/18 (94%) 211s
-[1]Nicta       |09:21:15 | 11-10-2026| manga ch2 (450001): page 18/18 (99%) 216s
-[1]Nicta       |09:21:15 | 11-10-2026| manga ch2 (450001): COMPLETED
+[1]Nicta       |11:50:41 | 12-10-2026| manga: 0/13 chapter belum completed
 --> [1]Nicta menjalankan: Get Gift
-[1]Nicta       |09:21:19 | 11-10-2026| gift: 0/3 belum diterima
+[1]Nicta       |11:50:42 | 12-10-2026| gift: 0/3 belum diterima
 --> [1]Nicta menjalankan: Setup Profile
-[1]Nicta       |09:21:20 | 11-10-2026| profile: bio="https://x.com/znicta" fav=oshi rewardAt=1791690736
-[1]Nicta       |09:21:20 | 11-10-2026| profile: bonus sudah diklaim, skip
+[1]Nicta       |11:50:42 | 12-10-2026| profile: bio="https://x.com/znicta" fav=oshi rewardAt=1791690736
+[1]Nicta       |11:50:42 | 12-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Nicta menjalankan: Bind Wallet
-[1]Nicta       |09:21:22 | 11-10-2026| wallet: sudah terikat 8j4wsqBNJ9... (solana)
+[1]Nicta       |11:50:43 | 12-10-2026| wallet: sudah terikat 8j4wsqBNJ9... (solana)
 
 == RINGKASAN ==
-- Nicta: daily=already | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 6 (+10pt) | watch 2/2 completed | musik 10 trek ~1748.8169999999998s | artikel 0 dibaca | manga 1/13 completed | gift 0/3 diterima | profile - | wallet bound | mint req=false open=false
+- Nicta: daily=claimed | tasks OK 10/10 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/3 diterima | profile - | wallet bound | mint req=true open=false
