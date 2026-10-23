@@ -12,109 +12,59 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Nicta =====
-[1]Nicta       |08:17:39 | 22-10-2026| login OK @znicta | score=1620 rank=4468
-[1]Nicta       |08:17:39 | 22-10-2026| serverTime=2026-10-22T08:17:39.000Z local=2026-10-22T08:17:39.540Z
+[1]Nicta       |08:14:20 | 23-10-2026| login OK @znicta | score=1740 rank=4242
+[1]Nicta       |08:14:20 | 23-10-2026| serverTime=2026-10-23T08:14:20.000Z local=2026-10-23T08:14:20.410Z
 --> [1]Nicta menjalankan: Claim Daily
-[1]Nicta       |08:17:40 | 22-10-2026| daily: OK +10 poin score=1630
---> [1]Nicta menjalankan: Auto All Tasks (11 pending)
-[1]Nicta       |08:17:42 | 22-10-2026| [1/11] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/znicta/status/2113182422409172005
-[1]Nicta       |08:17:42 | 22-10-2026| delay 10s...
-[1]Nicta       |08:17:54 | 22-10-2026| [2/11] 1d9e1a73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/znicta/status/2113182560990766023
-[1]Nicta       |08:17:54 | 22-10-2026| delay 10s...
-[1]Nicta       |08:18:06 | 22-10-2026| [3/11] 2f4c6b39 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/znicta/status/2113182674433331400
-[1]Nicta       |08:18:06 | 22-10-2026| delay 10s...
-[1]Nicta       |08:18:19 | 22-10-2026| [4/11] 4dabfbcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/znicta/status/2113182611948699959
-[1]Nicta       |08:18:19 | 22-10-2026| delay 10s...
-[1]Nicta       |08:18:31 | 22-10-2026| [5/11] ada86142 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/znicta/status/2113182755413197763
-[1]Nicta       |08:18:31 | 22-10-2026| delay 10s...
-[1]Nicta       |08:18:43 | 22-10-2026| [6/11] 67a9776a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/znicta/status/2113182785240566151
-[1]Nicta       |08:18:43 | 22-10-2026| delay 10s...
-[1]Nicta       |08:18:55 | 22-10-2026| [7/11] e90ce04d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/znicta/status/2113182693961588896
-[1]Nicta       |08:18:55 | 22-10-2026| delay 10s...
-[1]Nicta       |08:19:07 | 22-10-2026| [8/11] 06ee5b2a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/znicta/status/2113182746333245216
-[1]Nicta       |08:19:07 | 22-10-2026| delay 10s...
-[1]Nicta       |08:19:19 | 22-10-2026| [9/11] 05c835bd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/znicta/status/2113182796604848710
-[1]Nicta       |08:19:19 | 22-10-2026| delay 10s...
-[1]Nicta       |08:19:32 | 22-10-2026| [10/11] 8a108d4b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/znicta/status/2113183182590218584
-[1]Nicta       |08:19:32 | 22-10-2026| delay 10s...
-[1]Nicta       |08:19:45 | 22-10-2026| [11/11] bd8c2f19 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054
-[1]Nicta       |08:19:45 | 22-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Nicta       |08:19:46 | 22-10-2026| [1/1] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2113116994090545 | proof=https://x.com/znicta/status/2113183016144442672
+[1]Nicta       |08:14:21 | 23-10-2026| daily: OK +10 poin score=1750
+--> [1]Nicta menjalankan: Auto All Tasks (9 pending)
+[1]Nicta       |08:14:22 | 23-10-2026| [1/9] b1de7845 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/znicta/status/2113544129270404567
+[1]Nicta       |08:14:22 | 23-10-2026| delay 10s...
+[1]Nicta       |08:14:34 | 23-10-2026| [2/9] 8598d58b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/znicta/status/2113544026356512956
+[1]Nicta       |08:14:34 | 23-10-2026| delay 10s...
+[1]Nicta       |08:14:46 | 23-10-2026| [3/9] a3b32468 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/znicta/status/2113544208600881402
+[1]Nicta       |08:14:46 | 23-10-2026| delay 10s...
+[1]Nicta       |08:14:57 | 23-10-2026| [4/9] 55d1cc44 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709
+[1]Nicta       |08:14:57 | 23-10-2026| delay 10s...
+[1]Nicta       |08:15:09 | 23-10-2026| [5/9] 007fb4bc (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/znicta/status/2113544415914346634
+[1]Nicta       |08:15:09 | 23-10-2026| delay 10s...
+[1]Nicta       |08:15:21 | 23-10-2026| [6/9] cd349eb5 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/znicta/status/2113544481172163472
+[1]Nicta       |08:15:21 | 23-10-2026| delay 10s...
+[1]Nicta       |08:15:32 | 23-10-2026| [7/9] 2669d576 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/znicta/status/2113544493646795221
+[1]Nicta       |08:15:32 | 23-10-2026| delay 10s...
+[1]Nicta       |08:15:44 | 23-10-2026| [8/9] 352bca6d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/znicta/status/2113544258033513850
+[1]Nicta       |08:15:44 | 23-10-2026| delay 10s...
+[1]Nicta       |08:15:56 | 23-10-2026| [9/9] cf4945ad (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/znicta/status/2113544547430005108
+[1]Nicta       |08:15:56 | 23-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Nicta       |08:15:58 | 23-10-2026| [1/1] b1de7845 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2113277810857099 | proof=https://x.com/znicta/status/2113544488187515755
 --> [1]Nicta menjalankan: Watch Anime
-[1]Nicta       |08:19:47 | 22-10-2026| watch: 2 video belum completed: oshi-rainbow-star,bakeru-ikesou-jan-mv
-[1]Nicta       |08:19:47 | 22-10-2026| watch [1/2] farming oshi-rainbow-star...
-[1]Nicta       |08:19:48 | 22-10-2026| watch oshi-rainbow-star: mulai dari 0 (record 71.3s diabaikan)
-[1]Nicta       |08:19:49 | 22-10-2026| watch oshi-rainbow-star: 82% (71.25/86.00s)
-[1]Nicta       |08:19:55 | 22-10-2026| watch oshi-rainbow-star: 82% (71.25/86.00s)
-[1]Nicta       |08:20:01 | 22-10-2026| watch oshi-rainbow-star: 82% (71.25/86.00s)
-[1]Nicta       |08:20:08 | 22-10-2026| watch oshi-rainbow-star: 82% (71.25/86.00s)
-[1]Nicta       |08:20:14 | 22-10-2026| watch oshi-rainbow-star: 82% (71.25/86.00s)
-[1]Nicta       |08:20:20 | 22-10-2026| watch oshi-rainbow-star: 82% (71.25/86.00s)
-[1]Nicta       |08:20:26 | 22-10-2026| watch oshi-rainbow-star: 82% (71.25/86.00s)
-[1]Nicta       |08:20:32 | 22-10-2026| watch oshi-rainbow-star: 82% (71.25/86.00s)
-[1]Nicta       |08:20:39 | 22-10-2026| watch oshi-rainbow-star: 82% (71.25/86.00s)
-[1]Nicta       |08:20:45 | 22-10-2026| watch oshi-rainbow-star: 88% (76.54/86.00s)
-[1]Nicta       |08:20:52 | 22-10-2026| watch oshi-rainbow-star: 95% (82.36/86.00s)
-[1]Nicta       |08:20:52 | 22-10-2026| watch oshi-rainbow-star: COMPLETED (82.36/86.00s)
-[1]Nicta       |08:20:57 | 22-10-2026| watch [2/2] farming bakeru-ikesou-jan-mv...
-[1]Nicta       |08:20:58 | 22-10-2026| watch bakeru-ikesou-jan-mv: mulai dari 0 (record 101.2s diabaikan)
-[1]Nicta       |08:20:59 | 22-10-2026| watch bakeru-ikesou-jan-mv: 55% (101.18/181.00s)
-[1]Nicta       |08:21:05 | 22-10-2026| watch bakeru-ikesou-jan-mv: 55% (101.18/181.00s)
-[1]Nicta       |08:21:11 | 22-10-2026| watch bakeru-ikesou-jan-mv: 55% (101.18/181.00s)
-[1]Nicta       |08:21:17 | 22-10-2026| watch bakeru-ikesou-jan-mv: 55% (101.18/181.00s)
-[1]Nicta       |08:21:24 | 22-10-2026| watch bakeru-ikesou-jan-mv: 55% (101.18/181.00s)
-[1]Nicta       |08:21:30 | 22-10-2026| watch bakeru-ikesou-jan-mv: 55% (101.18/181.00s)
-[1]Nicta       |08:21:36 | 22-10-2026| watch bakeru-ikesou-jan-mv: 55% (101.18/181.00s)
-[1]Nicta       |08:21:43 | 22-10-2026| watch bakeru-ikesou-jan-mv: 55% (101.18/181.00s)
-[1]Nicta       |08:21:49 | 22-10-2026| watch bakeru-ikesou-jan-mv: 55% (101.18/181.00s)
-[1]Nicta       |08:21:55 | 22-10-2026| watch bakeru-ikesou-jan-mv: 55% (101.18/181.00s)
-[1]Nicta       |08:22:01 | 22-10-2026| watch bakeru-ikesou-jan-mv: 55% (101.18/181.00s)
-[1]Nicta       |08:22:07 | 22-10-2026| watch bakeru-ikesou-jan-mv: 55% (101.18/181.00s)
-[1]Nicta       |08:22:14 | 22-10-2026| watch bakeru-ikesou-jan-mv: 55% (101.18/181.00s)
-[1]Nicta       |08:22:20 | 22-10-2026| watch bakeru-ikesou-jan-mv: 55% (101.18/181.00s)
-[1]Nicta       |08:22:26 | 22-10-2026| watch bakeru-ikesou-jan-mv: 55% (101.18/181.00s)
-[1]Nicta       |08:22:33 | 22-10-2026| watch bakeru-ikesou-jan-mv: 55% (101.18/181.00s)
-[1]Nicta       |08:22:39 | 22-10-2026| watch bakeru-ikesou-jan-mv: 55% (101.18/181.00s)
-[1]Nicta       |08:22:45 | 22-10-2026| watch bakeru-ikesou-jan-mv: 55% (101.18/181.00s)
-[1]Nicta       |08:22:52 | 22-10-2026| watch bakeru-ikesou-jan-mv: 55% (101.18/181.00s)
-[1]Nicta       |08:22:58 | 22-10-2026| watch bakeru-ikesou-jan-mv: 58% (106.57/181.00s)
-[1]Nicta       |08:23:04 | 22-10-2026| watch bakeru-ikesou-jan-mv: 61% (112.15/181.00s)
-[1]Nicta       |08:23:10 | 22-10-2026| watch bakeru-ikesou-jan-mv: 65% (117.69/181.00s)
-[1]Nicta       |08:23:17 | 22-10-2026| watch bakeru-ikesou-jan-mv: 68% (123.49/181.00s)
-[1]Nicta       |08:23:24 | 22-10-2026| watch bakeru-ikesou-jan-mv: 71% (129.05/181.00s)
-[1]Nicta       |08:23:30 | 22-10-2026| watch bakeru-ikesou-jan-mv: 75% (135.80/181.00s)
-[1]Nicta       |08:23:36 | 22-10-2026| watch bakeru-ikesou-jan-mv: 78% (141.38/181.00s)
-[1]Nicta       |08:23:43 | 22-10-2026| watch bakeru-ikesou-jan-mv: 81% (146.94/181.00s)
-[1]Nicta       |08:23:49 | 22-10-2026| watch bakeru-ikesou-jan-mv: 84% (152.52/181.00s)
-[1]Nicta       |08:23:55 | 22-10-2026| watch bakeru-ikesou-jan-mv: 87% (158.10/181.00s)
-[1]Nicta       |08:24:01 | 22-10-2026| watch bakeru-ikesou-jan-mv: 90% (163.75/181.00s)
-[1]Nicta       |08:24:01 | 22-10-2026| watch bakeru-ikesou-jan-mv: COMPLETED (163.75/181.00s)
+[1]Nicta       |08:15:58 | 23-10-2026| watch: semua video sudah completed
 --> [1]Nicta menjalankan: Read Article
-[1]Nicta       |08:24:04 | 22-10-2026| news: 27/27 artikel selesai dibaca
-[1]Nicta       |08:24:04 | 22-10-2026| mint eligibility: {"userId":"1874634707763421184","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@znicta","status":"submitted","revision":"cdccf3c2-2521-47b0-98f0-834e9b1f3cdb","
-[1]Nicta       |08:24:11 | 22-10-2026| news community-first-update-2026-10: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
-[1]Nicta       |08:24:19 | 22-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Nicta       |08:16:00 | 23-10-2026| news: 27/27 artikel selesai dibaca
+[1]Nicta       |08:16:00 | 23-10-2026| mint eligibility: {"userId":"1874634707763421184","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@znicta","status":"submitted","revision":"cdccf3c2-2521-47b0-98f0-834e9b1f3cdb","
+[1]Nicta       |08:16:06 | 23-10-2026| news road-to-mint-2026-10: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Nicta       |08:16:15 | 23-10-2026| news community-first-update-2026-10: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Nicta       |08:16:25 | 23-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
 --> [1]Nicta menjalankan: Quiz Anime
-[1]Nicta       |08:24:22 | 22-10-2026| quiz ep1: sudah dijawab
-[1]Nicta       |08:24:22 | 22-10-2026| quiz ep2: sudah dijawab
-[1]Nicta       |08:24:22 | 22-10-2026| quiz ep3: sudah dijawab
-[1]Nicta       |08:24:22 | 22-10-2026| quiz ep4: sudah dijawab
-[1]Nicta       |08:24:22 | 22-10-2026| quiz ep5: sudah dijawab
-[1]Nicta       |08:24:22 | 22-10-2026| quiz ep6: sudah dijawab
+[1]Nicta       |08:16:29 | 23-10-2026| quiz ep1: sudah dijawab
+[1]Nicta       |08:16:29 | 23-10-2026| quiz ep2: sudah dijawab
+[1]Nicta       |08:16:29 | 23-10-2026| quiz ep3: sudah dijawab
+[1]Nicta       |08:16:29 | 23-10-2026| quiz ep4: sudah dijawab
+[1]Nicta       |08:16:29 | 23-10-2026| quiz ep5: sudah dijawab
+[1]Nicta       |08:16:29 | 23-10-2026| quiz ep6: sudah dijawab
 --> [1]Nicta menjalankan: Music Missions (realtime, bisa lama!)
-[1]Nicta       |08:24:24 | 22-10-2026| music: kedua misi sudah tercapai, stop
-[1]Nicta       |08:24:24 | 22-10-2026| mission music-listens-10: sudah diklaim
-[1]Nicta       |08:24:24 | 22-10-2026| mission music-minutes-30: sudah diklaim
-[1]Nicta       |08:24:24 | 22-10-2026| mission anime-completed-3: sudah diklaim
+[1]Nicta       |08:16:30 | 23-10-2026| music: kedua misi sudah tercapai, stop
+[1]Nicta       |08:16:31 | 23-10-2026| mission music-listens-10: sudah diklaim
+[1]Nicta       |08:16:31 | 23-10-2026| mission music-minutes-30: sudah diklaim
+[1]Nicta       |08:16:31 | 23-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nicta menjalankan: Claim Missions
-[1]Nicta       |08:24:25 | 22-10-2026| mission music-listens-10: sudah diklaim
-[1]Nicta       |08:24:25 | 22-10-2026| mission music-minutes-30: sudah diklaim
-[1]Nicta       |08:24:25 | 22-10-2026| mission anime-completed-3: sudah diklaim
+[1]Nicta       |08:16:31 | 23-10-2026| mission music-listens-10: sudah diklaim
+[1]Nicta       |08:16:31 | 23-10-2026| mission music-minutes-30: sudah diklaim
+[1]Nicta       |08:16:31 | 23-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nicta menjalankan: Check Eligibility
 
 --- eligibility [1]Nicta ---
-  @znicta | score=1620 rank=4468
-  tasks    [#################---] 73/84
+  @znicta | score=1740 rank=4242
+  tasks    [############--------] 13/22
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -125,14 +75,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Nicta menjalankan: Read Manga
-[1]Nicta       |08:24:29 | 22-10-2026| manga: 0/13 chapter belum completed
+[1]Nicta       |08:16:35 | 23-10-2026| manga: 0/13 chapter belum completed
 --> [1]Nicta menjalankan: Get Gift
-[1]Nicta       |08:24:29 | 22-10-2026| gift: 0/4 belum diterima
+[1]Nicta       |08:16:36 | 23-10-2026| gift: 0/4 belum diterima
 --> [1]Nicta menjalankan: Setup Profile
-[1]Nicta       |08:24:30 | 22-10-2026| profile: bio="https://x.com/znicta" fav=oshi rewardAt=1791690736
-[1]Nicta       |08:24:30 | 22-10-2026| profile: bonus sudah diklaim, skip
+[1]Nicta       |08:16:36 | 23-10-2026| profile: bio="https://x.com/znicta" fav=oshi rewardAt=1791690736
+[1]Nicta       |08:16:36 | 23-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Nicta menjalankan: Bind Wallet
-[1]Nicta       |08:24:30 | 22-10-2026| wallet: sudah terikat 8j4wsqBNJ9... (solana)
+[1]Nicta       |08:16:37 | 23-10-2026| wallet: sudah terikat 8j4wsqBNJ9... (solana)
 
 == RINGKASAN ==
-- Nicta: daily=claimed | tasks OK 12/12 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 2/2 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Nicta: daily=claimed | tasks OK 10/10 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
